@@ -1,3 +1,6 @@
+#ifndef STRUCTSIZES0420_H
+#define STRUCTSIZES0420_H
+
 struct XYPoint {
   double x;
   double y;
@@ -17,3 +20,5 @@ struct Rectangle {
 };
 
 struct Empty {};
+
+#endif
